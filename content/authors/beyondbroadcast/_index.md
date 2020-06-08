@@ -4,10 +4,10 @@ title: Loh Siu Yin
 
 # Username (this should match the folder name)
 authors:
-- admin
+- beyondbroadcast
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Broadcast Technology Consultant
@@ -17,22 +17,6 @@ organizations:
 - name: Beyond Broadcast LLP
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: I put my strong technology and management skills to good use.
-
-interests:
-- Thinking and Learning
-- Improving Human Communications
-- Optimizing Processes
-
-education:
-  courses:
-  - course: Masters in Business Administration
-    institution: National University of Singapore
-    year: 1995
-  - course: Bachelor of Electrical Engineering (Honors)
-    institution: National University of Singapore
-    year: 1986
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,5 +44,9 @@ user_groups:
 - Partners
 ---
 
-Beyond Broadcast LLP is a broadcast technology consulting firm based in Singapore.
+We are a broadcast technology consulting firm based in Singapore.
+
+My partner, Kit Siew, and I founded Beyond Broadcast in 2003 to help broadcast organisations
+with broadcast engineering training, upgrade their facilities and streamline their operations
+with custom software.
 
