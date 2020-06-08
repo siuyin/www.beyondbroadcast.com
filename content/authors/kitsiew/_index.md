@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Loh Siu Yin
+title: "Yuen Kit Siew"
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
-- admin
+- "kitsiew"
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
-# Role/position
-role: Broadcast Technology Consultant
+# Role/position (e.g., Professor of Artificial Intelligence)
+role: Education Consultant
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I put my strong technology and management skills to good use.
+bio: 
 
+# List each interest with a dash
 interests:
-- Thinking and Learning
-- Improving Human Communications
-- Optimizing Processes
+- Enabling a new generation of students
+- Philosophy
 
 education:
   courses:
-  - course: Masters in Business Administration
-    institution: National University of Singapore
-    year: 1995
-  - course: Bachelor of Electrical Engineering (Honors)
-    institution: National University of Singapore
-    year: 1986
+  - course: Bachelor of Science (Physics)
+    institution: National Univesity of Singapore
+    year: 1985
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,9 +39,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/siuyin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,6 +53,4 @@ email: ""
 user_groups:
 - Partners
 ---
-
-Beyond Broadcast LLP is a broadcast technology consulting firm based in Singapore.
-
+Kit Siew is an experienced teacher and an excellent communicator. Prior to joining Beyond Broadcast she thought Physics at O-levels at Raffles Girls School, Singapore (Gifted Education Programme).
