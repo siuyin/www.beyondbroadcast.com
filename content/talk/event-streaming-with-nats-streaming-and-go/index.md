@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Desigining Creating and Growing Complex Software"
+title: "Event Sourcing With NATS Streaming and Go"
 event:
 event_url:
 location:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-10-25
-date_end: 2018-10-25
+date: 2018-08-23
+date_end: 2018-08-23
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2018-10-25
+publishDate: 2018-08-24
 
 authors: [siuyin]
 tags: [go]
@@ -48,9 +48,9 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
 
-url_code: https://github.com/siuyin/present-designing_creating_growing_complex_systems
+url_code: https://github.com/siuyin/present_go_nats-streaming
 url_pdf:
-url_video: https://engineers.sg/video/designing-creating-and-growing-complex-software-oct-2018-gosg--2959
+url_video: https://engineers.sg/video/event-sourcing-with-nats-streaming-and-go-gosg--2853
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

@@ -1,2 +1,3 @@
 #!/bin/sh
-rsync -avzd public/ rasp.h:html
+touch public
+rsync -avzd  public/ rasp.h:html

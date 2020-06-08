@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-08-23
-date_end: 2019-08-23
+date: 2018-10-25
+date_end: 2018-10-25
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2018-08023
+publishDate: 2018-10-25
 
 authors: [siuyin]
 tags: [go]
