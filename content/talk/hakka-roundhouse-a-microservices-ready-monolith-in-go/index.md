@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hakka Roundhouse a Microservices Ready Monolith in Go"
+title: "Hakka Roundhouse: A Microservices Ready Monolith in Go"
 event:
 event_url:
 location:
