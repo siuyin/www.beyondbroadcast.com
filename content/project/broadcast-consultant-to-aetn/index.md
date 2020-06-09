@@ -40,3 +40,7 @@ url_video: ""
 slides: ""
 ---
 AETN Asia is part of A+E Networks.
+
+Consulted on:
+- Streamlining operations.
+- Satellite quality discussions with AETN's uplinker.

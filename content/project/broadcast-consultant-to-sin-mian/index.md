@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Broadcast Consultant to Sin Mian Pte Ltd"
-summary: "2011, 2012. Sin Mian was the main contractor to Myanmar's International Convention Centre."
+summary: "2008 - 2012. Sin Mian was the main contractor to Myanmar's MWD Digital TV Project and International Convention Centre."
 authors: []
 tags: [consulting]
 categories: []
-date: 2011-07-14
+date: 2009-03-01
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +39,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Sin Mian was the main contractor to Myanmar's International Convention Centre.
+Sin Mian was the main contractor to Myanmar's MWD Digital TV Project and International Convention Centre.
+
+MWD -- design of:
+- TV Studio
+- Playback and Transmission complex.
+- Coordinated with partner consultant (Lai Wing Hin) on design of Radio complex.
+
+International Convention Centre:
+- Broadcast and video/audio infrastructure.
+- Site selection for optimal satellite uplink/downlink.

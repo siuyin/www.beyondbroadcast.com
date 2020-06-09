@@ -40,3 +40,8 @@ url_video: ""
 slides: ""
 ---
 ST Teleport was a component company of ST Telemedia Singapore.
+
+Projects consulted on included:
+- Streamlining broadcast operations
+- Maritime Video
+- International Media Centre

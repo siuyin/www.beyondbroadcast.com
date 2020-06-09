@@ -40,3 +40,6 @@ url_video: ""
 slides: ""
 ---
 ESS was a joint venture between ESPN and Star TV.
+
+Projects consulted on included:
+- Relocation and upgrading of broadcast facilities.

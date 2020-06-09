@@ -40,3 +40,8 @@ url_video: ""
 slides: ""
 ---
 Provided consulting services to Astro Malaysia.
+
+Consulted on:
+- Design of MAM workflows
+- MAM system specifications
+- MAM systems RFI evaluation and selection

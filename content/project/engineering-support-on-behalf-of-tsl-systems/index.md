@@ -40,3 +40,10 @@ url_video: ""
 slides: ""
 ---
 Supported Mediacorp and McGraw Hill (now Standard and Poors TV) on behalf of TSL Systems Integration (UK).
+
+Support areas included:
+- Nagios monitoring system
+- Rhozet (now carbon coded) transcoding system
+- SGL Archive system
+- Dalet Media Asset Management system
+- Television Studio Maintenance (McGraw Hill)
