@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Media Asset Management Consulting"
-summary: "2014, 2015. Provided consulting services to Astro Malaysia."
+title: "Media Asset Management Consultant to Astro Malaysia"
+summary: "2014, 2015. Specified, evaluated and recommended systems."
 authors: []
 tags: [consulting]
 categories: []
@@ -44,4 +44,4 @@ Provided consulting services to Astro Malaysia.
 Consulted on:
 - Design of MAM workflows
 - MAM system specifications
-- MAM systems RFI evaluation and selection
+- MAM systems RFI evaluation and recommendation
