@@ -61,3 +61,16 @@ user_groups:
 ---
 
 Siu Yin has more than 30 years of experience in the broadcast industry. He previously held positions as General Manager of Sony Pictures Singapore (SPTL) and Assistant Vice-President of Engineering at Television Corporation of Singapore (now Mediacorp Singapore).
+
+**Public Service Appointments**
+- 2019 - present, Electronics and Info-comm Technology Academic Advisory Committee member for Singapore's Institute of Technical Education.
+- 2000 - 2004, Board of Directors member, Singapore Broadcasting Authority (now Infocomm Media Development Authority).
+
+**Professional Memberships**
+- 1986 - present, Institute of Electrical and Electronics Engineers. Piscataway, New Jersey 08854, United States of America.
+
+**Scholarships and Awards**
+- 1982, Merit Scholarship from the Government of Singapore to attend National University of Singapore.
+- 1983, IEEE Vincent Bendix Award for a promising student paper.
+
+
