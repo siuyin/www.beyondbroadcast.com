@@ -53,4 +53,12 @@ email: ""
 user_groups:
 - Partners
 ---
-Kit Siew is an experienced teacher and an excellent communicator. Prior to joining Beyond Broadcast she thought Physics at O-levels at Raffles Girls School, Singapore (Gifted Education Programme).
+Kit Siew is an experienced teacher and an excellent communicator. Prior to joining Beyond Broadcast she thought O-level Physics at Raffles Girls School, Singapore (Gifted Education Programme).
+
+**Publications**
+- 2000, Science Vision, Textbook for Secondary 1, Palmine Raja Segaran and Yuen Kit Siew, Oxford University Press, ISBN 0 19 588758 1.
+- 2000, Science Vision, Workbook for Secondary 1, Palmine Raja Segaran and Yuen Kit Siew, Oxford University Press.
+- 2000, Science Vision, Teacher's Guide for Secondary 1, Palmine Raja Segaran and Yuen Kit Siew, Oxford University Press, ISBN 0 19 588797 2.
+- 2002, Science Vision, Textbook for Secondary 2, Palmine Raja Segaran and Yuen Kit Siew, Oxford University Press, ISBN 019-594054-7, ISBN 978-019-594054-1.
+- 2000, Science Vision, Workbook for Secondary 2, Palmine Raja Segaran and Yuen Kit Siew, Marshal Cavendish Education, ISBN 978-019-594055-8.
+- 2002, Science Vision, Teacher's Guide for Secondary 2, Palmine Raja Segaran and Yuen Kit Siew, Federal Publications, Product Code 1099007267.

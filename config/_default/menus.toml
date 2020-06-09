@@ -9,9 +9,15 @@
   weight = 10
 
 [[main]]
+  name = "The Team"
+  url = "#people"
+  weight = 20 
+
+[[main]]
   name = "Track Record"
   url = "#track_record"
-  weight = 20
+  weight = 25
+
 
 [[main]]
   name = "Posts"
