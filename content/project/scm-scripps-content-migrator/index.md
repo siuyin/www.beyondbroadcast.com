@@ -3,7 +3,7 @@
 
 title: "SCM: Scripps Content Migrator"
 summary: "2018. Broadcast content migrator."
-authors: []
+authors: [siuyin]
 tags: [software]
 categories: []
 date: 2018-09-03

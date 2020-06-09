@@ -3,7 +3,7 @@
 
 title: "dplay JSON Combiner / Generator"
 summary: "2019. json metadata packager for Discovery's dplay platform."
-authors: []
+authors: [siuyin]
 tags: [software]
 categories: []
 date: 2019-06-17

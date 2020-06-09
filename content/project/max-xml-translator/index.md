@@ -3,7 +3,7 @@
 
 title: "MAX XML Translator"
 summary: "2018. Broadview XML Schedule to Harris v12 translator."
-authors: []
+authors: [siuyin]
 tags: [software]
 categories: []
 date: 2018-10-08

@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Masters in Business Administration
+  - course: Master of Business Administration
     institution: National University of Singapore
     year: 1995
   - course: Bachelor of Electrical Engineering (Honors)

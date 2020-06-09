@@ -3,7 +3,7 @@
 
 title: "Intermediate Broadcast Technology for Engineers"
 summary: "2019. Customized broadcast training for Singtel."
-authors: []
+authors: [siuyin,kitsiew]
 tags: [training]
 categories: []
 date: 2019-10-01

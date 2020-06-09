@@ -3,7 +3,7 @@
 
 title: "Airbus Wav Handling"
 summary: "2020. airbus-wav-handling is an extension module to the Airbus asset management system."
-authors: []
+authors: [siuyin]
 tags: [software]
 categories: []
 date: 2020-05-08T15:18:00+08:00

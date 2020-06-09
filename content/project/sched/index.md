@@ -3,7 +3,7 @@
 
 title: "Sched: broadcast scheduling software"
 summary: "2020. A simple, extensible broadcast scheduling system."
-authors: []
+authors: [siuyin]
 tags: [software]
 categories: []
 date: 2020-05-08T15:11:59+08:00

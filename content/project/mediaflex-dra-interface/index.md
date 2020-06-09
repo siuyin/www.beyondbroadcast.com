@@ -3,7 +3,7 @@
 
 title: "Mediaflex DRA Interface"
 summary: "2020. Data interface to receive updates from TMD's Mediaflex MAM for Discovery's DRA asset manager."
-authors: []
+authors: [siuyin]
 tags: [software]
 categories: []
 date: 2020-03-08T15:23:41+08:00

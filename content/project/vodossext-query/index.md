@@ -3,8 +3,8 @@
 
 title: "VODOSSext-query"
 summary: "2019. A rule-based query engine for Oracle's (formerly Front Porch Digital) DIVA archive system."
-authors: []
-tags: []
+authors: [siuyin]
+tags: [software]
 categories: []
 date: 2019-11-01
 

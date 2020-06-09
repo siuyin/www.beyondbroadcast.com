@@ -3,7 +3,7 @@
 
 title: "Airbus: Heavy Asset Mover/Tracker"
 summary: "2019. Customized asset manager for Discovery Singapore."
-authors: []
+authors: [siuyin]
 tags: [software]
 categories: []
 date: 2019-08-07

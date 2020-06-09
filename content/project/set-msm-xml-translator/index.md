@@ -3,7 +3,7 @@
 
 title: "SET/MSM, SAB,PAL,AATH, PIX,YAY XML Translators"
 summary: "2019. Broadview XML schedule to Harris v12 translators."
-authors: []
+authors: [siuyin]
 tags: [software]
 categories: []
 draft: false

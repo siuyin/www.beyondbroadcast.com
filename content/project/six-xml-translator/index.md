@@ -3,7 +3,7 @@
 
 title: "SIX XML translator"
 summary: "2019. Translates Broadview XML schedules to Harris V12 playlist for SIX channels."
-authors: []
+authors: [siuyin]
 tags: [software]
 categories: []
 date: 2019-09-25

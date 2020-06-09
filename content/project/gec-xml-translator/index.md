@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Audio Expander"
-summary: "2020. audio-expander is a command line tool to expand audio entries for an archive retrival document."
+title: "GEC XML Translator"
+summary: "2018. Translates Broadview XML schedules to Harris v12 playlists for GEC channels."
 authors: [siuyin]
 tags: [software]
 categories: []
-date: 2020-04-15
+date: 2018-06-19
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,6 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-audio-expander is a command line tool to embellish a VODOSSext archive retrieval csv document with user specified audio entries.
-
-VODOSSext is Discovery's VOD Ordering Subsystem archive extension. 
+gecxml translates Broadview XML channel schedules to Imagine (previously Harris) ADC v12 playlists.

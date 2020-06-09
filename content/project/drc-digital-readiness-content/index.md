@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Audio Expander"
-summary: "2020. audio-expander is a command line tool to expand audio entries for an archive retrival document."
+title: "DRC: Digital Readiness Content"
+summary: "2017. A broadcast content repackager for streaming services."
 authors: [siuyin]
 tags: [software]
 categories: []
-date: 2020-04-15
+date: 2017-05-30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,6 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-audio-expander is a command line tool to embellish a VODOSSext archive retrieval csv document with user specified audio entries.
-
-VODOSSext is Discovery's VOD Ordering Subsystem archive extension. 
+drc is a broadcast content repackager for streaming services.

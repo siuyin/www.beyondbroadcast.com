@@ -3,7 +3,7 @@
 
 title: "Broadcast Technology Workflows"
 summary: "2019. Training at AV8 on behalf of IABM."
-authors: []
+authors: [siuyin,kitsiew]
 tags: [training]
 categories: []
 date: 2019-08-29

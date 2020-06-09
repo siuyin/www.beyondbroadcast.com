@@ -3,7 +3,7 @@
 
 title: "Broadcast Fundamentals"
 summary: "2019. Customised training for Singtel."
-authors: []
+authors: [siuyin,kitsiew]
 tags: [training]
 categories: []
 date: 2019-03-07
