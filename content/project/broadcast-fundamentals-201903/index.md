@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Broadcast Consultant to Willis Towers Watson"
-summary: "2018. Willis Towers Watson Singapore deployed Beyond Broadcasts' Loh Siu Yin as their consultant for Workforce Singapore's Skills Framework for Media study"
+title: "Broadcast Fundamentals"
+summary: "2019. Customised training for Singtel."
 authors: []
-tags: [consulting]
+tags: [training]
 categories: []
-date: 2018-04-02
+date: 2019-03-07
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-I facilitated group discussions for Workforce Singapore, Skill Future, Skills Framework for Media project.
+Cutomized training for Singtel's broadcast engineers.

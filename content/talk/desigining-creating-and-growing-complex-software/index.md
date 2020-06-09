@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Desigining Creating and Growing Complex Software"
+title: "Desigining, Creating and Growing Complex Software"
 event:
 event_url:
 location:

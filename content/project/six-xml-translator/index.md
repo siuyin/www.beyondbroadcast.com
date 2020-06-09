@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "sixxml translator"
+title: "SIX XML translator"
 summary: "2019. Translates Broadview XML schedules to Harris V12 playlist for SIX channels."
 authors: []
 tags: [software]

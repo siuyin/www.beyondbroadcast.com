@@ -1,12 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Broadcast Consultant to Willis Towers Watson"
-summary: "2018. Willis Towers Watson Singapore deployed Beyond Broadcasts' Loh Siu Yin as their consultant for Workforce Singapore's Skills Framework for Media study"
+title: "SET/MSM, SAB,PAL,AATH, PIX,YAY XML Translators"
+summary: "2019. Broadview XML schedule to Harris v12 translators."
 authors: []
-tags: [consulting]
+tags: [software]
 categories: []
-date: 2018-04-02
+draft: false
+date: 2019-06-17
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,4 +40,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-I facilitated group discussions for Workforce Singapore, Skill Future, Skills Framework for Media project.
+setmsmxml, sabpalaathxml and pixyayxml translate Broadview XML channel schedules to Imagine (previously Harris) ADC v12 playlists.
