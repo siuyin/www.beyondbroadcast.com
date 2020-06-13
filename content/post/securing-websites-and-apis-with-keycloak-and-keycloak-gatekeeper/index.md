@@ -101,8 +101,10 @@ Both keycloak and keycloak-gatekeeper are available for linux, mac and windows.
 ```
 # keycloak is running at 192.168.1.200 and the realm is foo
 discovery-url: http://192.168.1.200/auth/realms/foo
+
+# client-secret is the secret you copied from Configure / clients / {client-id} / Credentials.
 client-id: gatekeeper
-client-secret: bfe02249-5a48-4b88-b0b0-cdaea7e2d90d
+client-secret: bfe02249-5a48-4b88-b0b0-cdaea7e2d90d 
 
 # keycloak is listening on port 80 (http) or 443 (https). Note the extra :
 listen: :80
