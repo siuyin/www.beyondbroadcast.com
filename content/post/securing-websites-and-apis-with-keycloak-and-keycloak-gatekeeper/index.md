@@ -63,7 +63,7 @@ Both keycloak and keycloak-gatekeeper are available for linux, mac and windows.
          to change it.
       1. Change Access Type from "public" to "confidential" by clicking on the field to show a list of options and selecting confidential.
       1. Change Valid Redirect URIs to a url like http://foo.com or https://foo.com or http://192.168.1.123:8080.
-         The redirect URI is the the place keycloak will send an authorisation token (something like a passport)
+         The redirect URI is the place keycloak will send an authorisation token (something like a passport)
 	 after you have sucessfully logged-in as a user. For our example we want to send the token to `keycloak-gatekeeper`. We will set-up users in the next steps.
       1. Click Save (near the bottom of the page).
       1. Look for and click on Credentials near the top of the page. Copy the secret. We will need it to configure keycloak-gatekeeper.
