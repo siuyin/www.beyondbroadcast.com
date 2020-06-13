@@ -107,11 +107,11 @@ discovery-url: http://192.168.1.200/auth/realms/foo
 client-id: gatekeeper
 client-secret: bfe02249-5a48-4b88-b0b0-cdaea7e2d90d 
 
-# keycloak is listening on port 80 (http) or 443 (https). Note the extra :
-listen: :80
+# keycloak-gatekeeper is listening on port ... or port 80 (http) or 443 (https). Note the extra :
+listen: :8080
 enable-refresh-tokens: true
 enable-default-deny: true
-redirection-url: http://192.168.1.123:8080
+redirection-url: http://192.168.1.123:8080 # must match keycloak Configure / Clients / {client-id} / Valid Redirect URIs
 
 # encryption key can be any string you like. It is used internally within keycloak. 
 encryption-key: sflfjljuweru0989
