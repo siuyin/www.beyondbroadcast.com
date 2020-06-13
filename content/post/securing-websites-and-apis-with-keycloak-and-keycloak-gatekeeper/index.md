@@ -41,7 +41,8 @@ Both keycloak and keycloak-gatekeeper are available for linux, mac and windows.
 1. Adjust serving of your website or APIs so that they are no longer publicly accessible.  
   Refer to your web server (eg. nginx, apache, IIS) documentation for details on how to do this.
   Eg. edit you web server configuration to serve on a different port like 8123.
-1. Configure keycloak-gatekeeper to point to your new website address ( Eg. http://localhost:8123 ).
+1. Configure keycloak-gatekeeper to authenticate with keycloak and
+  point to your new website address ( Eg. http://localhost:8123 ).
 1. Adjust your web server configuration to make keycloak-gatekeeper publicly accessible.  
   Access your now secured website through keycloak-gatekeeper.
 
