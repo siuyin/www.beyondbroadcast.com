@@ -5,7 +5,7 @@ title: "How to Secure the Future"
 subtitle: ""
 summary: "How do we keep ourselves independent (productive and relevant economically and socially) for as long as possible?"
 authors: [kitsiew]
-tags: []
+tags: [life long learning]
 categories: []
 date: 2020-06-13T16:17:03+08:00
 lastmod: 2020-06-13T16:17:03+08:00
