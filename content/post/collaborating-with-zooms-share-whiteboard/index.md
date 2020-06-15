@@ -5,7 +5,7 @@ title: "Collaborating With Zoom's Shared Whiteboard"
 subtitle: ""
 summary: "How to allow meeting participants to annotate your shared Zoom whiteboard."
 authors: [siuyin]
-tags: []
+tags: [tools]
 categories: []
 date: 2020-06-15T11:32:52+08:00
 lastmod: 2020-06-15T11:32:52+08:00
