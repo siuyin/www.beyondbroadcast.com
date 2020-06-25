@@ -46,7 +46,7 @@ How would know if you are over studying? If you put in the effort, but don't see
 ## How to Study Effectively
 1. Write in down  
   Pay attention in class. Jot down important points. Underline and highlight important points. Make notes. 
-1. Talk in out  
+1. Talk it out  
   Ask questions in class if you don’t understand and clear your doubts as soon as possible. Discuss with classmates. 
 1. Practise with small steps  
   Learn enough to self-correct by solving problems.  Start with easy problems first. Gain confidence. Then try harder problems. If you can't solve the whole problem, break down the problem into smaller parts and solve some of the smaller parts.
