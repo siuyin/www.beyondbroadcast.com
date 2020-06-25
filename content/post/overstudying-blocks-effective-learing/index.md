@@ -36,7 +36,7 @@ Some students tend to over study when they go from junior high to high school.  
 It is true that getting good grades needs you to put in time and effort. However, you may find that even if you put in a lot of time and effort, your grades do not improve, instead they may get worse. You then put in even more time and effort. You study harder and longer but your grades keep dropping. The more you study the worse things become.  This is a sign you are probably overstudying. 
 
 ## Common Signs of Over Studying
-How would know if you are over studying? If you ou put in the effort but don't see improvement in your grades, look for the signs of overstudying below:
+How would know if you are over studying? If you put in the effort, but don't see improvement in your grades, look for the signs of overstudying below:
 1. Unable to pay attention in class and retain new information
 1. Withdrawing from Social activity: Having less interaction with others
 1. Lack of Sleep: too little hours or sleep is restless
