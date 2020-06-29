@@ -4,7 +4,7 @@
 title: "Desigining, Creating and Growing Complex Software"
 event:
 event_url:
-location:
+location: golang-meetup
 address:
   street:
   city:
