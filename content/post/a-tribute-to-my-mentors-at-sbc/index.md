@@ -11,7 +11,7 @@ date: 2020-06-29T08:26:35+08:00
 lastmod: 2020-06-29T08:26:35+08:00
 featured: false
 diagram: true
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
