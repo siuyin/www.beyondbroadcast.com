@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Consolidating Policy Decisions With Opa and Go"
+title: "Consolidating Policy Decisions With OPA and Go"
 event:
 event_url: https://www.youtube.com/watch?v=xHP8KoKTiUQ
 location: online
