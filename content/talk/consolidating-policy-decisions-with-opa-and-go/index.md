@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary: Using Open Policy Agent (OPA) with Go.
-abstract:
+abstract: Talk starts at 57:24 in the video.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
