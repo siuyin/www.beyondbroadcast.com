@@ -17,6 +17,12 @@ Instead please use the [original repository](https://github.com/gcushen/hugo-aca
 
 At the project root: `hugo server`. The site will be served at localhost:1313.
 
+To create a new post|talk:  
+hugo new post/{new post title}  
+edit content/post/{new post title}/index.md
+
+Subtitute "post" above with talk when creating a new talk.
+
 ## Deployment
 
 At the project root:
