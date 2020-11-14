@@ -141,7 +141,7 @@ or you run out of Flash or RAM. Use a more powerful,
 costlier part.
 
 But if you don't *want* to use a costlier, more powerful part,
-the you have to optimise. Optimise by using "Medium" or even
+then you have to optimise. Optimise by using "Medium" or even
 "Low" level software.
 
 Here are some stats for you. Many of the products you use have
@@ -151,12 +151,12 @@ with 32K of Flash and 2K of RAM.
 
 ## Be prepared to learn if you want to optimise
 1. Create a mental model of the part you want to use.
- Draw and organisation chart of sorts. The "CEO" is 
+ Draw an organisation chart of sorts. The "CEO" is 
  obviously the CPU but it is the Clock system that
  is the part's Chief Operating Officer.
 1. Draw the communications paths between the
  different peripherals. Often, but not always,
- the communicate over a common bus.
+ they communicate over a common bus.
 1. Understand how to reach each peripheral.
  Think of each peripheral as a "Department"
  within the organisation chart. These Departments
@@ -169,20 +169,20 @@ with 32K of Flash and 2K of RAM.
  power comes the responsibility of understanding how
  interrupts work. In short, you usually have to:
     1. save the state of the task being interrupted
-    1. acknowledge the interrupt but resetting a flag
+    1. acknowledge the interrupt but resetting a flag in a predefined register
     1. perform your interrupt service routine. Keep it short!
     1. restore the state of the task that was interrupted
 
 ## Compiled or Interpreted?
 C and Assembly are compiled languages. You run your code
-through a compiler to generate a binary that is flashed on the part.
+through a compiler to generate a binary that is flashed to the part.
 
 CicuitPython, MicroPython, Lua are interpreted. You first flash
-the Python or Lua on to the part and then communicate with the
+the Python or Lua to the part, then communicate with the
 part via a serial terminal.
 
 Forth is like Python and Lua except it is both interpreted and
-compiled. You flash Forth on to the part and communicate over
+compiled. You flash Forth to the part, then communicate over
 a serial terminal. But the Forth programs you write are
 compiled on the chip to machine code.
 
@@ -190,8 +190,8 @@ Python is the easiest language to learn. It is familiar but
 requires powerful hardware to run it. An ATMega328 has no
 chance of running Python.
 
-Forth is the weirdest language to learn. But it will easily
-run on limited hardware like an ATMega328. I actually use
+Forth is a weird language to learn. But it will easily
+run on limited hardware like an ATMega328. I use
 STM8ef Forth running on an STM8S003F3/STM8S103F3 with 8K Flash
 and 1K RAM.
 
