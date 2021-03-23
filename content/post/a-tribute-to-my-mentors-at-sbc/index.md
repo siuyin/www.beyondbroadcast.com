@@ -139,7 +139,7 @@ the technology educators of SBC. Lai Weng Tat, technologist extraordinaire.
 Wong Soh Soon, kung-fu master of his domain.
 Loh Kim Song, master of chi and also a Power man.
 
-Lee Siok Tin and Tan Kim Poh of SBC's commercial enterprise. Tan Hua Long, Cheng Joo Jang and Kueh Teck Yong who ventured out to create an
+Lee Sik Hui and Tan Kim Poh of SBC's commercial enterprise. Tan Hua Long, Cheng Joo Jang and Kueh Teck Yong who ventured out to create an
 enterprise of their own.
 
 To all these people and the many more whom I have surely missed out,  
