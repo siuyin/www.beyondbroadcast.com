@@ -27,5 +27,8 @@ Subtitute "post" above with talk when creating a new talk.
 
 At the project root:
 1. `hugo --cleanDestinationDir --minify`
-1. `rsync -avzd public/ target.host.com:html_public_folder`
+1. `publish_to_main.sh` or `publish_to_rasp.sh`
+
+These rsync the content over.
+`rsync -avzd public/ target.host.com:html_public_folder`
 
