@@ -51,3 +51,21 @@ What happens if we add water into the glass? The water will eventually reach the
 
 Life Lessons: To lead a happy life we only need a certain amount. To some this means 3 meals a day and a bed to sleep at night. To some others, it means satisfying three urgent needs: able to eat, to eliminate and to sleep. In fact some Chinese who wish to be excused and go to the toilet will say, “ I need to attend to an urgent need.” We can only fill our lives with so much stuff. Also the more stuff we have does not necessarily lead to a happier life. It could even make us unhappy. Keep life simple. Know what you want and what you need.
 
+## Sharing the water in our cup
+A way to keep our glass half empty is to pour water out from our glass and into the glasses of others. This way, others will have their own glasses of water. If we share our water with others,   we not only have space for more water but can help others gain more water in their glasses.
+
+Life Lessons: When we share with others, it not only benefits those who receive but also the giver. I am a firm believer that it is actually the giver who gets more. It is important to give with a happy heart and with little or no expectations. Start giving and you will experience the joy and the many blessings it brings.
+
+## The intact glass vs the glass with a crack
+The intact glass does not leak water while the glass with cracks leaks water. A leaky glass of water is harder to handle. We need to drink up the water as quickly as we can. Alternatively we need to put in effort to mend the crack. We need to adapt to this crack.
+
+Life Lessons: We are not given a choice at birth. Some people are born to favourable circumstances. They are given an intact glass at the start of life. Life is relatively easy and many things are taken for granted.  Others are born to difficult circumstances. They are given a cracked glass early in life. From an early age they know that they cannot take things for granted. They work hard and learn quickly to survive. They are better adapted to handle disappointments. So even if your life is very smooth or rather especially if your life is very smooth, don’t just take things for granted. Consider taking a little risk. Challenge yourself. 
+
+## What happens if your glass cracks
+We all hope that our glass never cracks. We work very hard to prevent it from cracking. But life is unpredictable. If our glass breaks, we need to think of solutions. A cracked glass is better than no glass. Perhaps we need to get a new glass. Whatever. It is not the end of the world.
+
+Live lessons: Life is not perfect. Our trials are actually our blessings in disguise. They force us to be more patient, to dig deeper to find greater strength.So be thankful to discover the crack early.  Many creative solutions and growth are the result of things not going our way or as we expect. They stretch us in ways that we never thought possible. 
+
+##The important thing is to drink the water
+Whether the glass is half empty or half full is not important. Whether we start life lucky with an intact glass or with a cracked glass is not important. Whether our luck runs out and our glass cracks in the future is not important.  The important thing is we have water to drink. So let us drink the water in the glass. Let us keep filling our glass with water until it “runneth over” to the cups of others and everyone has water to quench their thirst.
+
