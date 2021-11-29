@@ -66,6 +66,6 @@ We all hope that our glass never cracks. We work very hard to prevent it from cr
 
 Live lessons: Life is not perfect. Our trials are actually our blessings in disguise. They force us to be more patient, to dig deeper to find greater strength.So be thankful to discover the crack early.  Many creative solutions and growth are the result of things not going our way or as we expect. They stretch us in ways that we never thought possible. 
 
-##The important thing is to drink the water
+## The important thing is to drink the water
 Whether the glass is half empty or half full is not important. Whether we start life lucky with an intact glass or with a cracked glass is not important. Whether our luck runs out and our glass cracks in the future is not important.  The important thing is we have water to drink. So let us drink the water in the glass. Let us keep filling our glass with water until it “runneth over” to the cups of others and everyone has water to quench their thirst.
 
