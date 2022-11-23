@@ -47,7 +47,7 @@ When travelling towards Thomson, you will have to filter right and avoid traffic
 Similarly when travelling towards Bukit Timah you will also have to filter right to avoid traffic going in to the Pan Island Expressway. This is less scary as it is downhill and your speed is higher but I don't recommend it for cyclists not experienced riding with dense motorised traffic.
 
 ## Alternative routes attempted
-I initially wanted to ride the Lornie park connector, but this means pushing the bike over the overhead bridge to access the path at Sime Road and Lornie Highway.
+I rode the Lornie park connector, but this meant pushing the bike over the overhead bridge to access the path at Sime Road and Lornie Highway.
 ![sime and lornie](/img/sime-lornie.jpg)
 
 ![at sime road towards thomson](/img/at-sime-towards-thomson.jpg)
