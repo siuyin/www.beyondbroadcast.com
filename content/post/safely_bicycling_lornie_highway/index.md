@@ -3,7 +3,7 @@
 
 title: "Safely Bicycling Lornie Highway"
 subtitle: ""
-summary: "connecting Bukit Timah and Bishan/Marymount"
+summary: "Connecting Bukit Timah and Bishan/Marymount.  Use Kheam Hock road to access Lornie Highway.  Cycle on the **sidewalk** adjacent to Lornie Highway towards (with traffic) / from (against traffic) Thomson or Braddell Roads."
 authors: [Loh Siu Yin]
 tags: [bicycling]
 categories: []
