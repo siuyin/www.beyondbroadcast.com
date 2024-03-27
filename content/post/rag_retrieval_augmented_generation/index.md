@@ -12,8 +12,6 @@ lastmod: 2024-03-27T14:26:26+08:00
 featured: false
 draft: false
 
-Below is a link to a talk I gave on RAG:
-https://youtu.be/l00SMscY5G8
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,3 +28,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Below is a link to a talk I gave on RAG:
+https://youtu.be/l00SMscY5G8
