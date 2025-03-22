@@ -17,7 +17,7 @@ abstract:
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2025-03-14T16:01:19+08:00
-date_end: 2025-03-14T16:01:19+08:00
+#date_end: 2025-03-14T16:01:19+08:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -50,7 +50,7 @@ url_slides: https://github.com/siuyin/intro-html-css-js
 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/playlist?list=PLV8BLwvXmCnyefPxcikmwkGk0fqzFn2Tz
+url_video: "https://www.youtube.com/playlist?list=PLV8BLwvXmCnyefPxcikmwkGk0fqzFn2Tz"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
