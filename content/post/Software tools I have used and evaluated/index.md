@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 ## Programming Languages
-1. `go`: [go](https://go.dev/)easy to use, simple, targets many OSes and Architectures (GOOS=windows, GOARCH=amd64). Use: `go tool dist list` to see the complete list. eg. [http doc](https://pkg.go.dev/net/http). Books: [Effective Go](https://go.dev/doc/effective_go), [Language Spec](https://go.dev/ref/spec).
+1. `go`: [go](https://go.dev/) is easy to use, simple, targets many OSes and Architectures (GOOS=windows, GOARCH=amd64). Use: `go tool dist list` to see the complete list. eg. [http doc](https://pkg.go.dev/net/http). Books: [Effective Go](https://go.dev/doc/effective_go), [Language Spec](https://go.dev/ref/spec).
 
    * go embedded html fileserver: [gist](https://gist.github.com/siuyin/8c666a15b15d9be4cb70fa4ab32ef16e#file-main-go).
 
