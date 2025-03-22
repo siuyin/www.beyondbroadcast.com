@@ -36,7 +36,11 @@ projects: []
 
 1. `javascript`: [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) is built into browsers. For the backend, I use [deno](https://deno.com/) as it can natively handle [typescript](https://www.typescriptlang.org/) code.
 
+   * `authentication`: firebase authentication code [example](https://github.com/siuyin/firebase_auth_min_example/blob/main/fbauth/index.html).
+
    * `htmx`: [htmx](https://htmx.org/) enables interactivity with custom html attribute. [code example](https://gist.github.com/siuyin/8c666a15b15d9be4cb70fa4ab32ef16e#file-index-html).
+
+   * `web components`: vanilla js [example](https://github.com/siuyin/intro-html-css-js/blob/main/012/index.html). A library to make this easier would be [lit](https://lit.dev/). Browser [usage](https://lit.dev/docs/getting-started/#use-bundles). 
 
 1. `rust`: [rust](https://www.rust-lang.org/) is low-level, memory-safe, fast language. Can target small microcontrollers like the [CH32V003](https://docs.rs/ch32v0/latest/ch32v0/index.html). Also good for creating fast, memory safe tooling (eg vite's [Oxc](https://oxc.rs/) uses rust. tooling). Books: [rust book](https://doc.rust-lang.org/book/), [Effective Rust](https://effective-rust.com/)
 
@@ -59,3 +63,8 @@ projects: []
 ## Load testing
 1. `hey`: [hey](https://github.com/rakyll/hey): `hey -n 10 -c 2 http://localhost:8080/`.
 1. `apache bench`: [ab](https://httpd.apache.org/docs/2.4/programs/ab.html): `ab -n 10 -c 2 http://localhost:8080/`.
+
+## Cross platform mobile
+1. `flutter`: [flutter](https://flutter.dev/) targets android, ios, web, [desktop](https://docs.flutter.dev/platform-integration/desktop). See also supported [platforms](https://docs.flutter.dev/reference/supported-platforms).
+
+    * `authentication`: example [code](https://github.com/siuyin/flutter_authn/blob/main/lib/main.dart).
