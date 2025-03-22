@@ -42,7 +42,7 @@ projects: []
 
    * `web components`: vanilla js [example](https://github.com/siuyin/intro-html-css-js/blob/main/012/index.html). A library to make this easier would be [lit](https://lit.dev/). Browser [usage](https://lit.dev/docs/getting-started/#use-bundles). 
 
-1. `rust`: [rust](https://www.rust-lang.org/) is low-level, memory-safe, fast language. Can target small microcontrollers like the [CH32V003](https://docs.rs/ch32v0/latest/ch32v0/index.html). Also good for creating fast, memory safe tooling (eg vite's [Oxc](https://oxc.rs/) uses rust. tooling). Books: [rust book](https://doc.rust-lang.org/book/), [Effective Rust](https://effective-rust.com/)
+1. `rust`: [rust](https://www.rust-lang.org/) is low-level, memory-safe, fast language. Can target small microcontrollers like the [CH32V003](https://docs.rs/ch32v0/latest/ch32v0/index.html). Also good for creating fast, memory safe tooling (eg vite's [Oxc](https://oxc.rs/) uses rust. tooling). Books: [rust book](https://doc.rust-lang.org/book/), [Effective Rust](https://effective-rust.com/), [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/).
 
     * leap year [example](https://gist.github.com/siuyin/2c371f203b750577b0c1871427168016).
 
