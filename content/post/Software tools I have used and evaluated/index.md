@@ -32,6 +32,8 @@ projects: []
 
    * go embedded html fileserver: [gist](https://gist.github.com/siuyin/8c666a15b15d9be4cb70fa4ab32ef16e#file-main-go).
 
+   * [air](https://github.com/air-verse/air) provides live reload for go apps. `go install github.com/air-verse/air@latest`
+
 1. `javascript`: [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) is built into browsers. For the backend, I use [deno](https://deno.com/) as it can natively handle [typescript](https://www.typescriptlang.org/) code.
 
    * `htmx`: [htmx](https://htmx.org/) enables interactivity with custom html attribute. [code example](https://gist.github.com/siuyin/8c666a15b15d9be4cb70fa4ab32ef16e#file-index-html).
