@@ -27,6 +27,381 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+## halloween
+2026-11-13
+
+With Autumn nearly over  
+On the last day of October   
+Western civilisation   
+Hold a celebration   
+Called Halloween 
+
+Costumed parties   
+Where boys are dressed   
+Like cute little monsters  
+Or famous superheroes   
+And girls are dressed like fairies   
+Or cute little witches 
+
+Chanting Trick or Treat   
+To collect some sweets   
+Halloween is good fun   
+For the little ones 
+
+For the older   
+It is popular   
+A celebration of horror   
+A celebration of the macabre
+
+That many have forgotten   
+That it was a celebration   
+Dedicated   
+To remember the dead  
+The faithfully departed
+
+Footnote  
+31 October: Halloween (All Hallows (Holy/Saint] Eve]  
+1 November: All Saints Day  
+2 November: All Souls Day
+
+----
+## gifts
+2026-11-12
+
+I do believe   
+We all receive   
+That everyone  
+Is born   
+Is given   
+At least one   
+Gift from heaven 
+
+These gifts can be found   
+In people all around   
+Some are easy   
+For all to see
+
+Some people are clever   
+Good with numbers   
+Some easily remember   
+Things that matter 
+
+Some are beautiful   
+Some are graceful   
+Some are musical   
+Some are practical
+
+Some are creative   
+Some are imaginative   
+Some are sensitive   
+So instinctive
+
+Some gifts are in the dark   
+Waiting for the spark  
+And they will surface   
+When difficulties we face
+
+So if your gift   
+Is not in sight   
+Don't lose heart  
+Don't give up without a fight
+
+----
+## flamboyant
+2026-11-11
+
+Something about the Flamboyant   
+Screams attention   
+Attracts others notice  
+Be it clothes   
+Or gestures 
+
+Some can be found   
+Parading around   
+Strutting up and down   
+All around town
+
+Their clothes are colourful   
+Bright and beautiful   
+Catches the eye  
+We can't deny 
+
+Those who wear stark  
+Black or White   
+May also want to attract   
+For they do stand out 
+
+Those who showboat  
+Those who go about   
+With the swanky walk  
+The attention screaming talk
+
+Oh the Flamboyant   
+Makes my heart buoyant   
+They all make me   
+Appreciate the funny
+
+----
+## escargot
+2026-11-10
+
+I have a funny story   
+This is a true story   
+A childhood memory   
+Of how I got to know   
+About the Escargot 
+
+At kindergarten   
+Everyone was frightened   
+Of a boy so tall and buff  
+That he looked so very tough 
+
+he flexed his biceps   
+His muscles bulged   
+The other kids ran away   
+Only I chose to stay 
+
+Under his nose   
+I struck a pose   
+To show I could do harm  
+I pressed my forearm  
+To show a bulge  
+To show off my mighty muscle 
+
+He looked at me   
+He agreed with me   
+Said his muscles   
+Came from eating snails  
+But these snails were hard to find  
+They were not the garden kind
+
+When I finally ate the Escargot   
+It was in Singapore   
+At a restaurant called Jack's place  
+A popular restaurant in those days 
+
+This was after earning a salary   
+For the Escargot was a luxury   
+And as for the muscles  
+I didn't develop any   
+I was still very skinny   
+Perhaps I had too little
+
+But most likely   
+The Escargot story   
+The little boy had told to me   
+Just to impress the little me
+
+----
+## dance
+2026-11-09
+
+Since ancient times   
+People have danced  
+A great way to exercise   
+Even if there are no prizes
+
+Those who have never danced   
+Do give it a chance   
+Please don't be shy   
+Just give it a try 
+
+Let's  start   
+With something basic  
+Nothing too drastic   
+Just remember   
+Weight is not at the centre 
+
+A step is a change of weight   
+Between our feet  
+From right to left   
+Or left to right 
+
+A touch or a tap  
+Is different from a step  
+If the weight doesn't shift  
+You've danced it right   
+Now kick in the air  
+For some extra flair 
+
+You are doing fine   
+Let's do the Vine  
+I will give it a twirl   
+For more thrill  
+Now it's your turn   
+To do the turn  
+Let's dance in line
+
+----
+## do consider
+2026-11-09
+
+三思而后行  
+Sān sī ér hòu xíng (Mandarin)  
+Sam si ji hau hang (Cantonese)
+
+Think carefully before you act.  
+Don't rush into things. Think before speaking or making decisions. A little thought can help us avoid mistakes and regrets.
+
+Do Consider  
+By Yuen Kit Siew   
+(9 November 2026)
+
+This is good  advice   
+For people   
+Like me  
+Who tend to be  
+Too hasty
+
+Good advice also   
+For those who are slow   
+To take or let go  
+Yes or no  
+No or yes   
+How to guess  
+How to know 
+
+So thinking thrice   
+Is good advice   
+No need to rush  
+Not too little   
+Not too much   
+Good to consider   
+Three scenarios 
+
+But the situation   
+Under consideration   
+Is also  a factor   
+It also matters 
+
+So when I have time to spare  
+I take the time to compare   
+I do prepare   
+For the just in case  
+We need to act fast  
+Because some chances don't last
+
+----
+## chimera
+2026-11-08
+
+Chimera was a monster   
+A three-part animal creature   
+From Greek mythology   
+That lived in modern day Turkey 
+
+Head and chest of a lion  
+Its tail a serpent   
+From its body section   
+A goat's head rears  
+Breathing huge flames of fire
+
+Typhon was his father   
+Echidna was his mother   
+Cerberus was his brother   
+And Hydra  
+His sister 
+
+Born into a monster family   
+He naturally   
+Learned  to terrorise   
+The countryside   
+He was strong   
+He didn't know right from wrong
+
+In modern days   
+We use the word Chimera   
+In many ways  
+Like for calico cats   
+Or people with different DNA sets  
+From twin embryos   
+From organ transplants  
+So much we now know   
+Much more we don't know 
+
+Someone with patchwork  personality   
+Or someone with problems in identity   
+Don't be blind  
+Don't be unkind   
+Don't call anyone a Chimera   
+Perhaps not even an idea
+
+----
+## bamboozle
+2026-11-07
+
+Bamboozle   
+Is used by people   
+Who don't walk  
+The talk
+
+Some sales people   
+Use Bamboozle   
+When they want to dazzle   
+A clever move   
+To confuse 
+
+Bamboozle   
+Makes the simple   
+Sound complex   
+To leave us feeling perplexed 
+
+When we don't want others to think   
+That we have been hoodwinked  
+That we have been fools  
+Eyes covered by wool
+
+So we use Bamboozle   
+A word more gentle   
+When we have been swindled  
+When we feel abashed   
+That we have been had
+
+----
+## yam head
+2026-11-07
+
+人頭博芋頭  
+Rén tóu bó yù tóu   
+Jan tau bok wu tau (Cantonese)
+
+Gambling your head for a head of yam
+
+Meaning: Taking a big risk just to get a small gain. Doing something foolish for a little personal benefit.  
+(Don't be greedy. Don't lose something precious just for a small gain)
+
+Yam Head  
+By Yuen Kit Siew   
+(7 November 2026)
+
+Gambling your head  
+For a yam head   
+So funny   
+Who would be so silly 
+
+Yet the sillier  
+The easier  
+To register   
+To remember 
+
+Many jokes   
+They do poke   
+They do prod  
+And make us give some thought 
+
+How ludicrous   
+To risk something so precious    
+For something so simple  
+So please don't gamble 
+
+人头博芋头  
+'Your head  
+For a yam head'  
+Enough said   
+By the wise  
+To remind the unwise
+
+----
 ## abracadabra
 2026-11-06
 
@@ -794,7 +1169,7 @@ To people I compare
 The colourful and buoyant   
 People who are flamboyant   
 Kites that droop and dip  
-The meek and thebtimid
+The meek and the timid
 
 And what about the plight   
 Of a kite fight  
@@ -3321,5 +3696,257 @@ Happy Mid Autumn Festival
 You are not forgotten   
 Let us come together and dine  
 Hope everyone is fine
+
+----
+## middle child
+2025-10-05
+
+I am a middle child   
+Seems like I come from the wild  
+To find my place   
+Within my family's maze
+
+Everywhere there are blocks   
+We are like Goldilocks   
+We are too small   
+Or we are too tall
+
+The child in the middle   
+Is like a riddle   
+Others can't ever understand   
+Why our questions never end
+
+Now I don't sigh  
+Now I know why  
+Sometimes we need to hit a wall   
+Not every size fits all
+
+I don't have all the answers   
+Now it no longer matters  
+Perhaps I have become wise  
+For I find, I don't have to fit any size.
+
+----
+## race with ai
+2025-10-05
+
+I am far from being a sage   
+I am proud to be average   
+No prizes I have ever won  
+Competitions I used to scorn
+
+I was happy to laze around   
+Until this year I found   
+Myself suddenly in a race  
+A competitor I now must face 
+
+So with all my insights   
+I have started to write   
+Trying with all my might   
+To write more and more   
+To score and score 
+
+My writings give a human compass  
+Even if one day AI may surpass  
+It is no longer a race   
+If it is done together with grace
+
+----
+## twilight zone
+2025-10-04
+
+Those of us who are older   
+May perhaps remember   
+A TV show we don't watch alone   
+It was called The Twilight Zone
+
+The show seemed full of horror   
+It filled us young ones with terror   
+We would scream and shout   
+To and fro we would run in and out
+
+But when we got older   
+We got bolder   
+Glued to our seats  
+We learnt that 2 different states  
+At the Twilight Zone they meet 
+
+Science fiction and Fantasy   
+We watched in ecstasy   
+The endings held a surprise   
+The stories made me think twice 
+
+And now when I am alone   
+Sometimes I think about this Twilight zone   
+Here there is no harsh light   
+Anywhere in sight   
+For me this is the place   
+Where it's always the good old days
+
+----
+## relationships
+2025-10-03
+
+This we need to know   
+We reap what we sow  
+For a happy life now  
+And also in the future  
+Relationships we need to nurture 
+
+Good times or bad   
+Happy times or sad  
+Share with one another   
+Don't forget each other 
+
+Let's spend more time together   
+For though one day we must part  
+There is something warm n the heart  
+That we will always remember
+
+----
+## bittersweet
+2025-09-05
+
+When I was young  
+I loved to eat  
+Durians that tasted sweet
+
+My mother and my father  
+Loved the other  
+The other I thought was bitter  
+But now I know better  
+Now I love to eat  
+These durians that are bitter sweet
+
+'Sweet start in life, bitter later  
+Bitter start in life, sweet later'  
+This saying in Chinese  
+Used to fill me with unease
+
+Perhaps life had some bitter  
+Perhaps I just don't remember  
+I know it no longer matters  
+If bitterness I meet  
+For I have learnt  
+How to make my bitter, sweet
+
+----
+## naughty bumblebees
+2025-08-31
+
+(From a poem from Sentul Convent]
+
+'Hahaha Hehehe  
+Laughed the naughty Bumble Bee  
+Can you see what I can see  
+Hahaha Hehehe'
+
+Who are these naughty bees  
+What can they see  
+Wo do they tease  
+Oh tell me please
+
+Little fingers wagging  
+Sweet faces blushing  
+Eager hands clapping  
+Happy feet prancing
+
+Sounds of happy laughter  
+Sounds of teasing banter  
+Sounds of yesteryear  
+Still so pleasant to the ear
+
+----
+## second chances
+2025-08-30
+
+We can't relive  
+Our lives again  
+But ......
+
+We get a second chance if  
+Along the way  
+A door closes in life  
+And we walk into another doorway
+
+Be thankful for these  
+Second chances  
+Because more we get to know  
+Because more they enable us to grow
+
+And don't forget  
+That Today  
+Is Yesterday's  
+Second chance
+
+----
+## artificial intelligence
+2025-08-30
+
+If it takes a village   
+To raise a child  
+Then it should take at least a village  
+To develop an AI
+
+So beware  
+We need to do this with care  
+For our future  
+Depends on how  
+The both we now  
+Nurture
+
+----
+## future
+2025-08-13
+
+We can't tell  
+What the future holds  
+How things will unfold  
+But .......
+
+If we spend time with old folks  
+From their Present Life  
+You can get a glimpse of future life  
+Because in the future  
+We will be old folks
+
+If we spend time with the Young Ones  
+Their dreams and aspirations  
+Will give us a glimpse into the future  
+Because in the future  
+They will determine our World
+
+----
+## meaning of life
+2025-07-28
+
+If you are NOT searching  
+For the Meaning of Life  
+You are likely  
+Too busy  
+Living Life
+
+If you are searching   
+For some meaning  
+You are likely  
+To have time and energy  
+Or the resources  
+To make life choices
+
+Either way  
+Be thankful  
+Be grateful  
+That you still strive  
+That you are alive
+
+Perhaps really  
+Meaning of life  
+Is simply  
+Is actually  
+Hove we live our lives
+
+
+
+
 
 ----
