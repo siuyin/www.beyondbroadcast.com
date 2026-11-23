@@ -3,6 +3,9 @@
 Download from:
 https://github.com/gohugoio/hugo/releases/tag/v0.144.0 
 
+Note: it seems to work upto version v.0.159.0
+https://github.com/gohugoio/hugo/releases/tag/v0.159.0
+
 ## Academic theme for Hugo: Do Not Use
 This is a forked version customized for personal requirements.
 
