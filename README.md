@@ -1,4 +1,9 @@
-# Academic theme for Hugo: Do Not Use
+# Use with hugo version 0.144 or ealier
+
+Download from:
+https://github.com/gohugoio/hugo/releases/tag/v0.144.0 
+
+## Academic theme for Hugo: Do Not Use
 This is a forked version customized for personal requirements.
 
 Do not clone / use this repository unless you want my settings.
