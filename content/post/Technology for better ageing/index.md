@@ -47,6 +47,17 @@ ear plugs. This can help with a better night's sleep.
 
 See also this short video: https://www.youtube.com/shorts/rBw_rhrApMo
 
+### Walking is important
+Gentle exercise and getting to view the sunlight is a great morale booster.
+
+Use whatever walking aid you feel comfortable using. I use a pair of
+trekking poles. These help with me with both walking uphill as well as
+downhill.
+
+See also this video: https://www.youtube.com/watch?v=jWm0V6_wldY
+
+When climbing stairs, hold on to the bannister / handrail.
+
 ### Medicine taking reminders
 
 I build a calendar pdf meant to be printed double-sided on one sheet of paper.

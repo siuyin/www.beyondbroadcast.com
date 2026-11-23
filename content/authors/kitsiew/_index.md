@@ -5,6 +5,7 @@ title: "Yuen Kit Siew"
 # Username (this should match the folder name and the name on publications)
 authors:
 - "kitsiew"
+- "Yuen Kit Siew"
 
 # Is this the primary user of the site?
 superuser: false
