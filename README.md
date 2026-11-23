@@ -1,4 +1,6 @@
-# Use with hugo version 0.144 or ealier
+# Use with hugo extended version 0.144 or ealier
+
+**important: use extended version**
 
 Download from:
 https://github.com/gohugoio/hugo/releases/tag/v0.144.0 
