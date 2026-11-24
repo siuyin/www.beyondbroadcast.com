@@ -4,7 +4,7 @@
 title: "Technology for Better Ageing"
 subtitle: ""
 summary: ""
-authors: [Loh Siu Yin]
+authors: [siuyin]
 tags: [ageing]
 categories: []
 date: 2026-11-23T11:20:35+08:00
