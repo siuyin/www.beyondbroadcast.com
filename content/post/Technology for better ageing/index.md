@@ -62,6 +62,23 @@ down stairs, it reduces the impact to your knees.
 
 Trekking poles work like the stair bannister.
 
+### Maintain Balance, counter the fear of falling
+Try getting on a bicycle again. This is a great way to maintain
+your sense of balance.
+
+If you have never ridden a bicycle, do this to get started:
+1. Adjust your seat height so that you are tip-toeing but comfortably so.
+1. Remove the pedals. Use a small wrench/spanner and turn the
+pedal shaft towards the back of the bicycle.
+1. Mount the bicycle and push forward with your feet. Do this on level ground.
+1. After awhile you will gain confidence and speed, enough to lift
+your feet off the ground and coast. At this stage you are balancing!
+1. Do this till you feel you can confidently coast. Then re-attach the pedals.
+Turn the pedal shaft towards the front of the bicycle to tighten.
+1. Pedal
+
+You are now cycling!
+
 ### Medicine taking reminders
 
 I build a calendar pdf meant to be printed double-sided on one sheet of paper.
