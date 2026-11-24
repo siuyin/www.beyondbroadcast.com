@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 ### Background                                                                                                                                           
-I was hospitalised for 2 weeks, spending most of that time tied to a bed with tubes and needles                                                          stuck into me. I could walk into the hospital, but after surgery, I could hardly get out of bed                                                          
+I was hospitalised for 2 weeks, spending most of that time tied to a bed with tubes and needles                                                          stuck into me. I could walk into the hospital, but after surgery, I could hardly get out of bed
 on my own.
 
 Here are a few tips and notes to myself that could help you, or your loved one, experience
@@ -56,7 +56,11 @@ downhill.
 
 See also this video: https://www.youtube.com/watch?v=jWm0V6_wldY
 
-When climbing stairs, hold on to the bannister / handrail.
+When climbing or going down stairs, hold on to the bannister / handrail.
+Your arms/upper body help pull you up the stairs, and when going
+down stairs, it reduces the impact to your knees.
+
+Trekking poles work like the stair bannister.
 
 ### Medicine taking reminders
 
