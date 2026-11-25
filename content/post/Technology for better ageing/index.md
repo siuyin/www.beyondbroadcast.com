@@ -79,6 +79,9 @@ Turn the pedal shaft towards the front of the bicycle to tighten.
 
 You are now cycling!
 
+If you want to find bicycle parking lots in Singapore, download the
+MyTransport.SG app. Select the menu icon and bicycle parking.
+
 ### Medicine taking reminders
 
 I build a calendar pdf meant to be printed double-sided on one sheet of paper.
